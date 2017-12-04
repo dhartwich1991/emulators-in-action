@@ -193,9 +193,6 @@ autoscale: true
 - You might now something like the following scripts:
 
 ---
-
-
----
 # integrationwithspoon.sh
 
 ``` sh
@@ -322,7 +319,7 @@ fi
 ```
 
 ---
-> "Start telnet and pray that it will work"
+> "# Start telnet and pray that it will work"
 > - kill-emulator.sh -
 
 ^ - Excerpt from the script
